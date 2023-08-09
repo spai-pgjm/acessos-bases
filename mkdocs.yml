@@ -14,15 +14,15 @@ theme:
   language: pt-BR
   palette:
     - scheme: default
-      primary: red 
-      accent: red
+      primary: green 
+      accent: green
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Alternar para modo escuro
 
     - scheme: slate 
-      primary: red
-      accent: red
+      primary: green
+      accent: green
       toggle:
         icon: material/toggle-switch
         name: Alternar para modo claro
