@@ -18,14 +18,14 @@ theme:
       accent: green
       toggle:
         icon: material/toggle-switch-off-outline 
-        name: Alternar para modo escuro
+        name: Alternar para modo claro
 
     - scheme: default 
       primary: green
       accent: green
       toggle:
         icon: material/toggle-switch
-        name: Alternar para modo claro
+        name: Alternar para modo escuro
 
 extra:
   social:
