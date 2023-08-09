@@ -1,5 +1,5 @@
-site_name: Manual do sistema PAI
-site_url: https://spai-pgjm.github.io/manual-pai/
+site_name: Bases de Acesso
+site_url: https://spai-pgjm.github.io/acessos-bases/
 theme:
   name: material
   features:
