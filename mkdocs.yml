@@ -13,14 +13,14 @@ theme:
     - content.code.copy
   language: pt-BR
   palette:
-    - scheme: default
+    - scheme: slate
       primary: green 
       accent: green
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Alternar para modo escuro
 
-    - scheme: slate 
+    - scheme: default 
       primary: green
       accent: green
       toggle:
